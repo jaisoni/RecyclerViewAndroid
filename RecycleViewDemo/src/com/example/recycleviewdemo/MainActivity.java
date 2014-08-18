@@ -6,7 +6,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
 import android.widget.Toast;
-
+ 
 public class MainActivity extends Activity{
 	private RecyclerView mRecyclerView;
     private RecyclerView.Adapter<RecycleAdapter.ViewHolder> mAdapter;

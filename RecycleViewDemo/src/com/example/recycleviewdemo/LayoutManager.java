@@ -7,5 +7,5 @@ public class LayoutManager extends LinearLayoutManager{
 
 	public LayoutManager(Context context) {
 		super(context);
-	}
+	} 
 }
